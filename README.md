@@ -1,4 +1,5 @@
 # A Dataset and A Lightweight Object Detection Network for Thermal ImagenBased Home Surveillance
+
 ##  The THS-DATA DATASET
 + Dataset Description:
 
@@ -32,4 +33,19 @@ Passwork: Please contact the author (email: szhengqiang@mail.nwpu.edu.cn)
 
 <div align=center>
 <img src="https://github.com/Sohna-Ctrl/A-Dataset-and-A-Lightweight-Object-Detection-Network-for-Thermal-Image-Based-Home-Surveillance/blob/main/images/exp2.png" />
+</div>
+
+## Citation
+<div class="snippet" markdown="1">
+
+```
+@inproceedings{wang2021kronecker,
+  title={A Dataset and A Lightweight Object Detection Network for Thermal Image-Based  Home Surveillance},
+  author={Zhengqiang Shao, Longbin Yan, Jie Chen, and Jingdong Chen},
+  booktitle={2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  year={2022},
+  organization={IEEE}
+}
+```
+
 </div>
